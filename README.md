@@ -62,7 +62,7 @@ ai-code-debugger/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/rushyendra28/AI-CodeDebug-Agent.git 
+git clone https://github.com/rushyendra28/AI-Code-Debugger.git 
 cd ai-code-debugger/backend
 ```
 
